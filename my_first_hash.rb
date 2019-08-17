@@ -3,7 +3,7 @@ current_games = hash.new {
   "xbox" => "rocket league"
   "ps" => "god of war"
 }
-  
+ end 
 end
 
 
