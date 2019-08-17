@@ -1,5 +1,5 @@
 def my_hash
-current_games = hash.new {
+current_games = {
   "xbox" => "rocket league",
   "ps" => "god of war"
 }
