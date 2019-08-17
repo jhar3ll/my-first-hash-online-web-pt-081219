@@ -4,7 +4,6 @@ current_games = {
   "ps" => "god of war"
 }
  end 
-end
 
 
 def shipping_manifest
