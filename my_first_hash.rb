@@ -4,7 +4,7 @@ current_games = hash.new {
   "ps" => "god of war"
 }
  end 
-
+end
 
 
 def shipping_manifest
