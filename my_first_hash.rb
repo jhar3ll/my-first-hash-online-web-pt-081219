@@ -1,10 +1,10 @@
 def my_hash
 current_games = hash.new {
-  "xbox" => "rocket league"
+  "xbox" => "rocket league",
   "ps" => "god of war"
 }
  end 
-end
+
 
 
 def shipping_manifest
